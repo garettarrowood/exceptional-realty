@@ -2,7 +2,7 @@ h1. Fake Realty Website
 
 p. This static website was built by following a series of well crafted code-along tutorials by "Jonathan Grover":https://github.com/jongrover. If you'd like to access his step by step breakdown, enroll in the "Flatiron School's Part-time Frontend Curriculum":http://flatironschool.com/frontend.html in NYC.
 
-Having exetremely little Front-End knowledge, I gained a solid foundation in:
+Having extremely little Front-End knowledge, I gained a solid foundation in:
 
 * HTML
 * CSS
