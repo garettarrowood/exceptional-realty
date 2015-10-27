@@ -11,5 +11,5 @@ Having exetremely little Front-End knowledge, I gained a solid understanding in:
 * DOM
 * Javascript
 * jQuery
-* And the list will go on, as I have much more to finish...
+* And the list will go on, as I have much more to learn as I finish his course...
 
