@@ -14,7 +14,7 @@ $(function() {
     }
   });
 
-  /////// Contct Form Validation ///////
+  /////// Contact Form Validation ///////
 
   function validateName(fullname) {
     if (fullname.length > 2) {
