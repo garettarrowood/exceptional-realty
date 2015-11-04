@@ -53,6 +53,7 @@ th, td {
 th {
   background: #555;
   color: white;
+  cursor: pointer;
 }
 
 input, textarea {
@@ -109,6 +110,10 @@ iframe {
   padding-right: 30px;
 }
 
+.new {
+  color: #ccc;
+  text-shadow: 0 2px 0 #000;
+}
 
 /*////////// BACKGROUNDS //////////*/
 
